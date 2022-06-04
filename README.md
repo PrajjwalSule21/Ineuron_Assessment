@@ -35,8 +35,6 @@ Functions of the console should be:
 * **Method returns**: name of tables ‘self.table1’, ‘self.table2’ and ‘self.table3’
 * **Functionality**: This class and its method is responsible to create a table and make connection with the respective database.
 
-### Diagram
-![2022-05-02 (2)](‪F:/Ineuron_Assesment_job/Untitled Diagram (1).jpg)
 
 ### Step3: MySQL Stored Procedure
 * **Store Procedure**: checkamount
